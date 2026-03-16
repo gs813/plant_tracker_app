@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # plant_tracker_app
 
 A new Flutter project.
@@ -17,3 +18,6 @@ samples, guidance on mobile development, and a full API reference.
 
 ![alt text](image.png)
 ![alt text](image-1.png)
+=======
+# plant_tracker_app
+>>>>>>> 7757e24227f11b259d59f183036bbf87c2a02688
